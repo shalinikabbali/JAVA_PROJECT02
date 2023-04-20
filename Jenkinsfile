@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 // Build the project and generate the WAR file
-                sh 'mvn clean package'
+                sh 'mvn clean install'
             }
       	  }
 	    stage('Deploy to tomcat') {
