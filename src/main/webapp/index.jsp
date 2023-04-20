@@ -5,11 +5,11 @@
   
 <marquee>Welcome to devops With Sanjay Gowda</marquee>
 
-<marquee direction="up">Welcome to Cloud With Sanjay | DEVOPS </marquee>
+<marquee direction="up">Welcome to Cloud With Sanjay Gowda | DEVOPS </marquee>
 
 <marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
   <marquee behavior="alternate">
-    Welcome to Cloud With Sanjay| DEVOPS
+    Welcome to Cloud With Sanjay Gowda| DEVOPS
   </marquee>
 </marquee>
   <B> <U> <I> Jenkins Installation </B> </i> </u>
