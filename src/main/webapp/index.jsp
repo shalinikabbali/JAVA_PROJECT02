@@ -1,9 +1,9 @@
 <html>
 <body>
   <h2>Hello SANJAY GOWDA ?</h2>
-<h3>Welcome to Devops With Sanjay| Civil Engineer  </h3>
+<h3>Welcome to Devops With Sanjay Gowda| Civil Engineer  </h3>
   
-<marquee>Welcome to devops With Sanjay</marquee>
+<marquee>Welcome to devops With Sanjay Gowda</marquee>
 
 <marquee direction="up">Welcome to Cloud With Sanjay | DEVOPS </marquee>
 
